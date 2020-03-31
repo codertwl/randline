@@ -1,0 +1,4 @@
+tmp/
+randline
+go.sum
+*.txt
